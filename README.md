@@ -224,6 +224,6 @@ The instructor may ask **any team member** to explain one of the bugs.
 
 **The gates are locked. The clock is ticking. Codoria needs its Software Knights!**
 
-🏰 May your code run and your bugs surrender! 🐛
+🏰 May your code run and your bugs surrender!! 🐛
 
 </div>
