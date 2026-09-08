@@ -37,20 +37,6 @@ The gate is controlled by an Express route, but the Dark Bug has damaged the Roy
 
 ---
 
-## 👥 Assign Your Royal Roles
-
-Before the timer begins, assign one role to every team member:
-
-| Role | Responsibility |
-|---|---|
-| ⚔️ **Knight Coder** | Controls the keyboard and writes the team's code |
-| 🧭 **Royal Navigator** | Reads the instructions and guides the Knight Coder |
-| 🔍 **Bug Hunter** | Tests the server, reads errors, and records each bug |
-
-> All three Software Knights must participate. Your roles will rotate in the next mission.
-
----
-
 ## 🎯 Your Mission
 
 The damaged code contains **three bugs**. Work together to locate and repair them.
