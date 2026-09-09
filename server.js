@@ -10,10 +10,10 @@
 
 const express = require('express')
 
-const app = express
+const app = express()
 
-app.get('gate', function (req, res) {
-  res.sent('🏰 The gates of Codoria are open!')
+app.get('/gate', function (req, res) {
+  res.send('🏰 The gates of Codoria are open!')
 })
 
 app.listen(3000, function () {
